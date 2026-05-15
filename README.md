@@ -4,3 +4,8 @@ This will be a repository of my code projects
 - git add
 - git commit
 - git push
+- push branches to github
+- opening pull request
+- code reviews
+- merging changes
+- delete remote and local branches
